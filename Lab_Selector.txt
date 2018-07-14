@@ -1,0 +1,27 @@
+CSS / jQuery 選擇器(Selector)語法練習
+
+
+1. 連接到下列網址:
+   http://codylindley.com/jqueryselectors/
+
+
+2. 瀏覽網頁的原始碼。
+
+
+3.  分別在「Enter Your Own Selectors」輸入下列Selector語法，
+    並且以網頁變色的區域映證Selector語法。
+    <Note> 完成一列後，點按 "Toggle" 可復原顏色
+
+p
+.myclass
+#myid
+div code
+li
+li:eq(1)
+li:gt(1)
+li:even
+li:odd
+
+
+4   試用 Basics、Hierarchy 等各區的範例，點按 "Toggle" 並且
+    以網頁變色的區域映證Selector語法。
