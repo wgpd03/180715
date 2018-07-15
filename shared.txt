@@ -1,0 +1,33 @@
+SMIT04 大專題發表影片:
+https://youtu.be/Cg85ON03kt0?t=3260
+
+jQuery Plugins 分享:
+
+http://janne.aukia.com/zoomooz/
+--
+https://dotblogs.com.tw/wellwind/2016/12/10/front-end-jquery-qrcode
+https://github.com/jeromeetienne/jquery-qrcode
+--
+https://ppt.cc/fYIAHx
+https://ppt.cc/fxbmbx
+https://fullcalendar.io/
+https://www.jqueryscript.net/demo/Slideshow-Carousel-slideWiz/
+http://fancyapps.com/fancybox/3/
+https://alvarotrigo.com/fullPage/#examples
+http://kenwheeler.github.io/slick/
+http://vodkabears.github.io/vide/
+http://www.jq22.com/code1061
+http://joelb.me/scrollpath/
+https://www.jqueryscript.net/animation/Interactive-Parallax-Effect-TurboParallax.html
+https://codepen.io/mrspok407/pen/EyAWaw
+https://nanogallery2.nanostudio.org/
+https://ppt.cc/flXoqx
+https://github.com/pavelk2/social-feed/
+https://www.jqueryscript.net/loading/Radial-Progress-Bar-jQuery-SVG-CSS3.html
+https://ppt.cc/ff4LNx
+https://ppt.cc/fiuUrx
+
+
+
+
+
